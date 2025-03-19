@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Темы форума</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Темы форума</h1>
+    </header>
+
+    <main>
+        <h2>Обсуждения</h2>
+        <ul>
+            <li><a href="topic1.html">Как создать сайт</a></li>
+            <li><a href="topic2.html">Последние новости</a></li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Мой форум</p>
+    </footer>
+</body>
+</html>
